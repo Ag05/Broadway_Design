@@ -8,6 +8,21 @@ h1{
   font-weight: bold;
 }
 
+h3{
+  font-weight: bold;
+  font-size: 23px;
+}
+
+h5{
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
+
+p{
+  font-size: 14px;
+}
+
 .topList{
   font-size: 18px;
 }
