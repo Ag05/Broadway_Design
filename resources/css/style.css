@@ -1,5 +1,4 @@
 html{
-  color: white;
   font-family: Helvetica;
   text-align: center;
 }
@@ -16,4 +15,8 @@ h1{
 .banner{
   background-image: url(../images/the-flatiron-building.png);
   background-size: cover;
+}
+
+#bannerTxt{
+  color: white;
 }
